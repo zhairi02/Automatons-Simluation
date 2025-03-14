@@ -1,17 +1,11 @@
-UE: LU2IN005 - Mathématiques Discrètes
-Université: Sorbonne Université
+Course: LU2IN005 - Discrete Mathematics
+University: Sorbonne University
 
 Description:
+This project focuses on finite automata, including their creation, manipulation, and operations. It covers deterministic finite automata (DFA) and non-deterministic finite automata (NFA), as well as transformations and operations on them.
 
-Ce projet traite des automates finis et inclut leur création, manipulation et opérations. Il couvre les automates déterministes (DFA) et non-déterministes (NFA), ainsi que des transformations et opérations sur ces derniers.
-
-
-Contenu:
-
-Définition et représentation des automates
-
-Conversion entre DFA et NFA
-
-Opérations : union, intersection, complément, minimisation
-
-Reconnaissance de langages
+Content:
+Definition and representation of automata
+Conversion between DFA and NFA
+Operations: union, intersection, complement, minimization
+Language recognition
